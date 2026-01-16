@@ -86,14 +86,6 @@ building **predictive models**, and communicating insights that support
 
 ## 📈 GitHub & Coding Activity
 
-Consistency • Problem Solving • Continuous Learning
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anant-Goel2006)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-Goel2006&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Anant-Goel2006)
 
 ## Leetcode Stats  
