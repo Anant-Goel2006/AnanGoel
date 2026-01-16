@@ -88,12 +88,15 @@ building **predictive models**, and communicating insights that support
 
 Consistency • Problem Solving • Continuous Learning
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Anant-Goel2006&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anant-Goel2006)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-Goel2006&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anant-Goel2006)
+
+## Leetcode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Anantgoel_2006?theme=dark&font=Baloo)
 
 ---
