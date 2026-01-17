@@ -10,7 +10,7 @@ Data Analysis, Machine Learning, and AI.
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anangoel&label=Profile%20views&color=0e75b6&style=flat" alt="anangoel" />
+  <img src="https://komarev.com/ghpvc/?username=Anant-Goel2006&label=Profile%20views&color=0e75b6&style=flat" alt="Anant-Goel2006" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ building **predictive models**, and communicating insights that support
 <a href="https://www.kaggle.com/Anantgoel1234" target="_blank">
 <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
-<a href="https://github.com/AnanGoel" target="_blank">
+<a href="https://github.com/Anant-Goel2006" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/Anantgoel_2006/" target="_blank">
@@ -73,12 +73,34 @@ building **predictive models**, and communicating insights that support
 
 ## 🛠️ Languages and Tools
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> </p>
+
 ---
 
 ## 📈 GitHub & Coding Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Anant-Goel2006)
+<div align="center">
+  <!-- Daily Streak / Contribution Graph -->
+  <img
+    src="https://streak-stats.demolab.com?user=Anant-Goel2006&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
+    height="200"
+    alt="streak graph"
+  />
+
+  <!-- Top Languages Used -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-Goel2006&theme=dracula&hide_border=false&border_radius=5&order=3"
+    height="200"
+    alt="Top Languages"
+  />
+
+  <!-- GitHub Trophies -->
+  <img
+    src="https://github-profile-trophy.vercel.app?username=Anant-Goel2006&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
+    height="150"
+    alt="trophy graph"
+  />
+</div>
 
 ## Leetcode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Anantgoel_2006?theme=dark&font=Baloo)
