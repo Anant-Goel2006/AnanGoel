@@ -10,7 +10,7 @@ Data Analysis, Machine Learning, and AI.
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Anant-Goel2006&label=Profile%20views&color=0e75b6&style=flat" alt="anangoel" />
+  <img src="https://komarev.com/ghpvc/?username=anangoel&label=Profile%20views&color=0e75b6&style=flat" alt="anangoel" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ building **predictive models**, and communicating insights that support
 <a href="https://www.kaggle.com/Anantgoel1234" target="_blank">
 <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
-<a href="https://github.com/Anant-Goel2006" target="_blank">
+<a href="https://github.com/AnanGoel" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/Anantgoel_2006/" target="_blank">
@@ -73,41 +73,13 @@ building **predictive models**, and communicating insights that support
 
 ## 🛠️ Languages and Tools
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="ht
 
 ---
 
 ## 📈 GitHub & Coding Activity
 
-<div align="center">
-  <!-- Primary: Streak (heroku endpoint) -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Anant-Goel2006&theme=dracula&mode=daily&hide_border=false&border_radius=5&order=3&v=1"
-    height="200"
-    alt="GitHub streak"
-  />
-
-  <!-- Top Languages Used -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anant-Goel2006&theme=dracula&hide_border=false&border_radius=5&order=3"
-    height="200"
-    alt="Top Languages"
-  />
-
-  <!-- GitHub Trophies -->
-  <img
-    src="https://github-profile-trophy.vercel.app?username=Anant-Goel2006&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4"
-    height="150"
-    alt="trophy graph"
-  />
-
-  <!-- Fallback: Contribution heatmap -->
-  <img
-    src="https://ghchart.rshah.org/Anant-Goel2006"
-    height="200"
-    alt="contribution chart"
-  />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=Anant-Goel2006)
 
 ## Leetcode Stats  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Anantgoel_2006?theme=dark&font=Baloo)
